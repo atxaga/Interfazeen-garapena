@@ -1,0 +1,25 @@
+﻿<Window x:Class="Ariketa6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ariketa6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="366,74,0,0" TextWrapping="Wrap" Text="Texto De Prueba" VerticalAlignment="Top" Width="191" Height="27"/>
+        <Button Content="Comic sans" HorizontalAlignment="Left" Margin="213,138,0,0" VerticalAlignment="Top" Width="86" Click="Button_comic_Click"/>
+        <Button Content="Negrita" HorizontalAlignment="Left" Margin="340,138,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.953,0.513" Width="100" Click="Button_negrita_Click"/>
+        <Button Content="Tachado" HorizontalAlignment="Left" Margin="477,138,0,0" VerticalAlignment="Top" Width="102" Click="Button_tachado_Click"/>
+        <Button Content="+Tamaño" HorizontalAlignment="Left" Margin="620,138,0,0" VerticalAlignment="Top" Width="96" Click="Button_sumtamaño_Click"/>
+        <Button Content="Courier" HorizontalAlignment="Left" Margin="213,187,0,0" VerticalAlignment="Top" Width="86" Click="Button_courier_Click"/>
+        <Button Content="Cursiva" HorizontalAlignment="Left" Margin="347,188,0,0" VerticalAlignment="Top" Width="95" RenderTransformOrigin="0.5,0.5" Click="Button_cursiva_Click"/>
+        <Button Content="Subrayado" HorizontalAlignment="Left" Margin="477,187,0,0" VerticalAlignment="Top" Width="102" Click="Button_subrayado_Click"/>
+        <Button Content="-Tamaño" HorizontalAlignment="Left" Margin="620,187,0,0" VerticalAlignment="Top" Width="96" Click="Button_restamaño_Click"/>
+        <TextBox HorizontalAlignment="Left" Margin="167,257,0,0" TextWrapping="Wrap" Text="Este sera el texto seleccionado" VerticalAlignment="Top" Width="194" Height="58"/>
+        <Button Content="Seleccionar" HorizontalAlignment="Left" Margin="477,266,0,0" VerticalAlignment="Top" Width="80" Click="Button_seleccionar_Click"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="517,327,0,0" VerticalAlignment="Top" Height="30" Width="62" Click="Button_Click_1"/>
+        <Label Content="El texto tiene x caracteres, y el texto seleccionado es: texto" HorizontalAlignment="Left" Margin="94,376,0,0" VerticalAlignment="Top" Width="327"/>
+
+    </Grid>
+</Window>

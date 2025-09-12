@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAriketa2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abb3b9a9fdf8e9fbae339bebe347dc7226aa8cf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAriketa2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAriketa2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
