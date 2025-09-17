@@ -20,55 +20,5 @@ namespace Ariketa6
         {
             InitializeComponent();
         }
-
-        private void Button_comic_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_negrita_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_tachado_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_sumtamaño_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_courier_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_cursiva_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_subrayado_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_restamaño_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_seleccionar_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_salir_Click(object sender, RoutedEventArgs e)
-        {
-            Close();
-        }
     }
 }
