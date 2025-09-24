@@ -17,16 +17,16 @@
         <Button Content="1" HorizontalAlignment="Left" Margin="286,238,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
         <Button Content="2" HorizontalAlignment="Left" Margin="329,238,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
         <Button Content="3" HorizontalAlignment="Left" Margin="372,238,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
-        <Button Content="C" HorizontalAlignment="Left" Margin="433,152,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
-        <Button Content="CE" HorizontalAlignment="Left" Margin="480,152,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
-        <Button Content="/" HorizontalAlignment="Left" Margin="433,196,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
-        <Button Content="-" HorizontalAlignment="Left" Margin="480,196,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
-        <Button Content="X" HorizontalAlignment="Left" Margin="433,238,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
-        <Button Content="+" HorizontalAlignment="Left" Margin="480,238,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
+        <Button Content="C" HorizontalAlignment="Left" Margin="433,152,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_quitar_Click"/>
+        <Button Content="CE" HorizontalAlignment="Left" Margin="480,152,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_eliminar_Click"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="433,196,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="480,196,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="433,238,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="480,238,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
         <Button Content="0" HorizontalAlignment="Left" Margin="286,278,0,0" VerticalAlignment="Top" Width="71" Height="25" Click="Button_number_Click"/>
         <Button Content="." HorizontalAlignment="Left" Margin="372,278,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
-        <Button Content="=" HorizontalAlignment="Left" Margin="433,278,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
-        <Button Content="%" HorizontalAlignment="Left" Margin="480,278,0,0" VerticalAlignment="Top" Height="25" Width="28"/>
+        <Button Content="=" HorizontalAlignment="Left" Margin="433,278,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_equals_Click"/>
+        <Button Content="%" HorizontalAlignment="Left" Margin="480,278,0,0" VerticalAlignment="Top" Height="25" Width="28" Click="Button_number_Click"/>
 
     </Grid>
 </Window>

@@ -42,5 +42,70 @@ namespace Ariketa7
             }
                    
         }
+
+        private void Button_quitar_Click(object sender, RoutedEventArgs e)
+        {
+            if (!string.IsNullOrEmpty(numbrebox.Text))
+            {
+                numbrebox.Text = numbrebox.Text.Substring(0, numbrebox.Text.Length - 1);
+              
+            }
+        }
+
+        private void Button_eliminar_Click(object sender, RoutedEventArgs e)
+        {
+            if (!string.IsNullOrEmpty(numbrebox.Text))
+            {
+                numbrebox.Text = "0";
+                count = 0;
+            }
+        }
+
+        private void Button_equals_Click(object sender, RoutedEventArgs e)
+        {
+            string expression = numbrebox.Text;
+            char[] operadores = { '+', '-', 'X', '/', '%' };
+            int opIndex = expression.IndexOfAny(operadores);
+
+            if (opIndex > 0)
+            {
+                string left = expression.Substring(0, opIndex);
+                string right = expression.Substring(opIndex + 1);
+                char op = expression[opIndex];
+
+                if (double.TryParse(left, out double num1) && double.TryParse(right, out double num2))
+                {
+                    double emaitza = 0;
+                    switch (op)
+                    {
+                        case '+': 
+                            emaitza = num1 + num2; 
+                            break;
+
+                        case '-': 
+                            emaitza = num1 - num2; 
+                            break;
+
+                        case 'X': 
+                            emaitza = num1 * num2; 
+                            break;
+
+                        case '/': 
+                            emaitza = num2 != 0 ? num1 / num2 : double.NaN; 
+                            break;
+
+                        case '%': 
+                            emaitza = num1 % num2; 
+                            break;
+                    }
+                    numbrebox.Text = emaitza.ToString();
+                    count = numbrebox.Text.Length;
+                }
+                else
+                {
+                    numbrebox.Text = "Error";
+                }
+            }
+        }
     }
 }
