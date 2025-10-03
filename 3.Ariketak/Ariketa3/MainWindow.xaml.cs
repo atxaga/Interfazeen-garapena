@@ -24,7 +24,7 @@ namespace Ariketa3
             this.PreviewKeyDown += MainWindow_PreviewKeyDown;
         }
 
-        // ENTER como TAB salvo en los TextBox de cálculo
+        
         private void MainWindow_PreviewKeyDown(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Enter)
@@ -34,7 +34,7 @@ namespace Ariketa3
                     Keyboard.FocusedElement == TrabajoTotalText ||
                     Keyboard.FocusedElement == TotalFinalText)
                 {
-                    return; // lo maneja su propio KeyDown
+                    return; 
                 }
 
                 e.Handled = true;
@@ -50,7 +50,7 @@ namespace Ariketa3
                 elementWithFocus.MoveFocus(request);
         }
 
-        // ===== BLOQUES DE CÁLCULO =====
+        
         private void DietasTotalText_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Enter)
@@ -97,9 +97,30 @@ namespace Ariketa3
                 double totalFinal = totalDietas + totalViajes + totalTrabajo;
                 TotalFinalText.Text = totalFinal.ToString("0.00") + " €";
 
-                // Opcional: mover el foco al botón Salir
                 MoveToNextUIElement();
             }
+        }
+
+        private void Button_salir_click()
+        {
+            Close();
+        }
+
+        private void Button_limpiar_click()
+        {
+            DietasTotalText.Text = "";
+            KmText.Text = "";
+            HorasViajeText.Text = "";
+            HorasTrabajoText.Text = "";
+            TrabajoTotalText.Text = "";
+            TotalFinalText.Text = "";
+            DesayunoCheck.IsChecked = false;
+            ComidaCheck.IsChecked = false;
+            CenaCheck.IsChecked = false;
+            totalDietas = 0;
+            totalViajes = 0;
+            totalTrabajo = 0;
+
         }
     }
 }

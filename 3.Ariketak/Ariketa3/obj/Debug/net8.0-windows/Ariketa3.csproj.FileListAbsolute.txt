@@ -19,3 +19,10 @@ D:\Interfazea\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\
 D:\Interfazea\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\Ariketa3.pdb
 D:\Interfazea\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\Ariketa3.genruntimeconfig.cache
 D:\Interfazea\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\ref\Ariketa3.dll
+D:\Iker\Desktop\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\App.g.cs
+D:\Iker\Desktop\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\Ariketa3_MarkupCompile.cache
+D:\Iker\Desktop\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\Ariketa3.dll
+D:\Iker\Desktop\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\refint\Ariketa3.dll
+D:\Iker\Desktop\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\Ariketa3.pdb
+D:\Iker\Desktop\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Iker\Desktop\Interfazeen-garapena\3.Ariketak\Ariketa3\obj\Debug\net8.0-windows\Ariketa3_MarkupCompile.lref

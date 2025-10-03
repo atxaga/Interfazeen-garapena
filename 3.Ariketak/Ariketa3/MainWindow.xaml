@@ -1,35 +1,35 @@
-﻿<Window x:Class="Ariketa3.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Ariketa3"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Label Content="Dietas" HorizontalAlignment="Left" Margin="190,89,0,0" VerticalAlignment="Top" Height="27" Width="42"/>
-        <CheckBox x:Name="DesayunoCheck" Content="Desayuno" HorizontalAlignment="Left" Margin="190,140,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="ComidaCheck" Content="Comida" HorizontalAlignment="Left" Margin="190,178,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="CenaCheck" Content="Cena" HorizontalAlignment="Left" Margin="190,217,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="DietasTotalText" HorizontalAlignment="Left" Margin="151,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="DietasTotalText_KeyDown"/>
+﻿﻿<Window x:Class="Ariketa3.MainWindow"
+	   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	   xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	   xmlns:local="clr-namespace:Ariketa3"
+	   mc:Ignorable="d"
+	   Title="MainWindow" Height="450" Width="800">
+	<Grid>
+		<Label Content="Dietas" HorizontalAlignment="Left" Margin="190,89,0,0" VerticalAlignment="Top" Height="27" Width="42"/>
+		<CheckBox x:Name="DesayunoCheck" Content="Desayuno" HorizontalAlignment="Left" Margin="190,140,0,0" VerticalAlignment="Top"/>
+		<CheckBox x:Name="ComidaCheck" Content="Comida" HorizontalAlignment="Left" Margin="190,178,0,0" VerticalAlignment="Top"/>
+		<CheckBox x:Name="CenaCheck" Content="Cena" HorizontalAlignment="Left" Margin="190,217,0,0" VerticalAlignment="Top"/>
+		<TextBox x:Name="DietasTotalText" HorizontalAlignment="Left" Margin="151,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="DietasTotalText_KeyDown"/>
 
-        <Label Content="Viajes" HorizontalAlignment="Left" Margin="362,85,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="KmText" Text="" HorizontalAlignment="Left" Margin="381,137,0,0" VerticalAlignment="Top" Width="77"/>
-        <TextBox x:Name="HorasViajeText" Text="" HorizontalAlignment="Left" Margin="381,172,0,0" VerticalAlignment="Top" Width="77"/>
-        <TextBox x:Name="ViajesTotalText" HorizontalAlignment="Left" Margin="321,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="ViajesTotalText_KeyDown"/>
+		<Label Content="Viajes" HorizontalAlignment="Left" Margin="362,85,0,0" VerticalAlignment="Top"/>
+		<TextBox x:Name="KmText" Text="" HorizontalAlignment="Left" Margin="381,137,0,0" VerticalAlignment="Top" Width="77"/>
+		<TextBox x:Name="HorasViajeText" Text="" HorizontalAlignment="Left" Margin="381,172,0,0" VerticalAlignment="Top" Width="77"/>
+		<TextBox x:Name="ViajesTotalText" HorizontalAlignment="Left" Margin="321,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="ViajesTotalText_KeyDown"/>
 
-        <TextBox x:Name="HorasTrabajoText" Text="" HorizontalAlignment="Left" Margin="573,137,0,0" VerticalAlignment="Top" Width="77"/>
-        <TextBox x:Name="TrabajoTotalText" HorizontalAlignment="Left" Margin="479,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="TrabajoTotalText_KeyDown"/>
+		<TextBox x:Name="HorasTrabajoText" Text="" HorizontalAlignment="Left" Margin="573,137,0,0" VerticalAlignment="Top" Width="77"/>
+		<TextBox x:Name="TrabajoTotalText" HorizontalAlignment="Left" Margin="479,289,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" KeyDown="TrabajoTotalText_KeyDown"/>
 
-        <Button Content="Limpiar" HorizontalAlignment="Left" Margin="181,361,0,0" VerticalAlignment="Top" Height="29" Width="60"/>
-        <Button Content="Salir" HorizontalAlignment="Left" Margin="351,361,0,0" VerticalAlignment="Top" Height="29" Width="60"/>
+		<Button Content="Limpiar" HorizontalAlignment="Left" Margin="181,361,0,0" VerticalAlignment="Top" Height="29" Width="60" Click="Button_limpiar_click"/>
+		<Button Content="Salir" HorizontalAlignment="Left" Margin="351,361,0,0" VerticalAlignment="Top" Height="29" Width="60" Click="Button_salir_click"/>
 
-        <Label Content="TOTAL" HorizontalAlignment="Left" Margin="479,343,0,0" VerticalAlignment="Top" Width="79"/>
-        <Label Content="Trabajo" HorizontalAlignment="Left" Margin="520,85,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="TotalFinalText" HorizontalAlignment="Left" Margin="573,347,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsReadOnly="True" KeyDown="TotalFinalText_KeyDown"/>
+		<Label Content="TOTAL" HorizontalAlignment="Left" Margin="479,343,0,0" VerticalAlignment="Top" Width="79"/>
+		<Label Content="Trabajo" HorizontalAlignment="Left" Margin="520,85,0,0" VerticalAlignment="Top"/>
+		<TextBox x:Name="TotalFinalText" HorizontalAlignment="Left" Margin="573,347,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsReadOnly="True" KeyDown="TotalFinalText_KeyDown"/>
 
-        <Label Content="KM" HorizontalAlignment="Left" Margin="321,131,0,0" VerticalAlignment="Top" Height="33" Width="29"/>
-        <Label Content="Horas" HorizontalAlignment="Left" Margin="321,168,0,0" VerticalAlignment="Top"/>
-        <Label Content="Horas" HorizontalAlignment="Left" Margin="517,133,0,0" VerticalAlignment="Top"/>
-    </Grid>
+		<Label Content="KM" HorizontalAlignment="Left" Margin="321,131,0,0" VerticalAlignment="Top" Height="33" Width="29"/>
+		<Label Content="Horas" HorizontalAlignment="Left" Margin="321,168,0,0" VerticalAlignment="Top"/>
+		<Label Content="Horas" HorizontalAlignment="Left" Margin="517,133,0,0" VerticalAlignment="Top"/>
+	</Grid>
 </Window>
