@@ -6,7 +6,6 @@ D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\bin\Debug\net8.0-wind
 D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\obj\Debug\net8.0-windows\App.g.cs
 D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\obj\Debug\net8.0-windows\Ariketa1_MarkupCompile.cache
-D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\obj\Debug\net8.0-windows\Ariketa1_MarkupCompile.lref
 D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\obj\Debug\net8.0-windows\MainWindow.baml
 D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.g.resources
 D:\Interfazea\Interfazeen-garapena\2UD_01_Ariketa\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.GeneratedMSBuildEditorConfig.editorconfig
