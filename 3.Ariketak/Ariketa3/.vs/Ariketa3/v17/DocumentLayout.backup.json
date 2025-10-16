@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Interfazea\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\",
+  "WorkspaceRootPath": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1786C298-45F5-409C-95DC-FCDE1F1FFA36}|Ariketa3.csproj|d:\\interfazea\\interfazeen-garapena\\3.ariketak\\ariketa3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1786C298-45F5-409C-95DC-FCDE1F1FFA36}|Ariketa3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1786C298-45F5-409C-95DC-FCDE1F1FFA36}|Ariketa3.csproj|d:\\interfazea\\interfazeen-garapena\\3.ariketak\\ariketa3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1786C298-45F5-409C-95DC-FCDE1F1FFA36}|Ariketa3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3.Ariketak\\Ariketa3\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T08:34:26.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T08:34:26.84Z"
             }
           ]
         }

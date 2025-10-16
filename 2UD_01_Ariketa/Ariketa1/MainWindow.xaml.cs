@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.ObjectModel;
+using System.IO;
 using System.Linq;
 using System.Windows;
 using System.Xml.Linq;
@@ -9,52 +10,41 @@ namespace Ariketa1
     public partial class MainWindow : Window
     {
         string fitxategia = "Data/tareas.xml";
-        ObservableCollection<Ataza> atazak = new ObservableCollection<Ataza>();
+        public ObservableCollection<Ataza> Atazak { get; set; } = new();
 
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = this;
             KargatuXML();
-            dgAtazak.ItemsSource = atazak;
         }
 
         private void KargatuXML()
         {
-            try
-            {
                 if (!System.IO.File.Exists(fitxategia))
                     return;
 
-                XDocument doc = XDocument.Load(fitxategia);
+                var doc = XElement.Load(fitxategia);
 
-                atazak.Clear();
                 foreach (var t in doc.Descendants("Tarea"))
                 {
-                    atazak.Add(new Ataza
+                    Atazak.Add(new Ataza
                     {
-                        Id = (int)t.Attribute("id"),
                         Titulua = t.Element("Titulua")?.Value,
                         Lehentasuna = t.Element("Lehentasuna")?.Value,
                         AzkenEguna = DateTime.Parse(t.Element("AzkenEguna")?.Value),
                         Egina = (t.Element("Egoera")?.Value == "Eginda")
                     });
                 }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Errorea XML irakurtzean: " + ex.Message);
-            }
         }
 
         private void GordeXML()
         {
-            try
-            {
                 XDocument doc = new XDocument(
                     new XElement("Tareas",
-                        from a in atazak
+                        from a in Atazak
                         select new XElement("Tarea",
-                            new XAttribute("id", a.Id),
+                            new XAttribute("id", Guid.NewGuid()),
                             new XElement("Titulua", a.Titulua),
                             new XElement("Lehentasuna", a.Lehentasuna),
                             new XElement("AzkenEguna", a.AzkenEguna.ToString("yyyy-MM-dd")),
@@ -63,33 +53,18 @@ namespace Ariketa1
                     )
                 );
                 doc.Save(fitxategia);
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Errorea XML gordetzean: " + ex.Message);
-            }
         }
 
         private void BtnBerria_Click(object sender, RoutedEventArgs e)
         {
-            // Validar tareas antes de guardar
-            foreach (var a in atazak)
+            var berria = new Ataza
             {
-                if (string.IsNullOrWhiteSpace(a.Titulua))
-                {
-                    MessageBox.Show("Ataza guztiek titulua izan behar dute.");
-                    return;
-                }
-
-                if (a.AzkenEguna < DateTime.Today)
-                {
-                    MessageBox.Show($"'{a.Titulua}' atazaren muga-eguna gaurkoa edo handiagoa izan behar da.");
-                    return;
-                }
-
-                if (a.Id == 0)
-                    a.Id = new Random().Next(1000, 9999);
-            }
+                Titulua = "Ataza berria",
+                Lehentasuna = "Baxua",
+                AzkenEguna = DateTime.Today,
+                Egina = false
+            };
+            Atazak.Add(berria);
 
             GordeXML();
             MessageBox.Show("Atazak gorde dira XML fitxategian.");
@@ -102,12 +77,6 @@ namespace Ariketa1
                 if (string.IsNullOrWhiteSpace(aukeratua.Titulua))
                 {
                     MessageBox.Show("Izenburua ezin da hutsik egon.");
-                    return;
-                }
-
-                if (aukeratua.AzkenEguna < DateTime.Today)
-                {
-                    MessageBox.Show("Muga-eguna gaurkoa edo handiagoa izan behar da.");
                     return;
                 }
 
@@ -124,8 +93,9 @@ namespace Ariketa1
         {
             if (dgAtazak.SelectedItem is Ataza aukeratua)
             {
-                atazak.Remove(aukeratua);
+                Atazak.Remove(aukeratua);
                 GordeXML();
+                MessageBox.Show("Ataza ezabatu da.");
             }
             else
             {
@@ -135,13 +105,12 @@ namespace Ariketa1
 
         private void BtnIrten_Click(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown();
+            Close();
         }
     }
 
     public class Ataza
     {
-        public int Id { get; set; }
         public string Titulua { get; set; }
         public string Lehentasuna { get; set; }
         public DateTime AzkenEguna { get; set; } = DateTime.Today;
