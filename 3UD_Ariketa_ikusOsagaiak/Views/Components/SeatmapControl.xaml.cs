@@ -13,7 +13,6 @@ namespace _3UD_Ariketa_ikusOsagaiak.Views.Components
             InitializeComponent();
         }
 
-        // --- Propiedad: Seats ---
         public ObservableCollection<Seat> Seats
         {
             get => (ObservableCollection<Seat>)GetValue(SeatsProperty);
@@ -26,7 +25,6 @@ namespace _3UD_Ariketa_ikusOsagaiak.Views.Components
                 typeof(SeatMapControl),
                 new PropertyMetadata(null));
 
-        // --- Propiedad: Columns ---
         public int Columns
         {
             get => (int)GetValue(ColumnsProperty);
@@ -39,7 +37,6 @@ namespace _3UD_Ariketa_ikusOsagaiak.Views.Components
                 typeof(SeatMapControl),
                 new PropertyMetadata(6));
 
-        // --- Propiedad: SeatClickCommand ---
         public ICommand SeatClickCommand
         {
             get => (ICommand)GetValue(SeatClickCommandProperty);

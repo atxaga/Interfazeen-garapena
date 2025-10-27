@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("3UD_Ariketa_ikusOsagaiak")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+525e2e7177b4ec57030dd90898562bb4fbb597e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("3UD_Ariketa_ikusOsagaiak")]

@@ -54,7 +54,7 @@ namespace _3UD_Ariketa_ikusOsagaiak.ViewModels
             ReserveCommand = new RelayCommand(ReserveSelectedSeats);
             CancelCommand = new RelayCommand(CancelSelectedSeats);
 
-            SelectedMode = TransportModes[0]; // inicializamos con Bus
+            SelectedMode = TransportModes[0]; 
         }
 
         private void LoadCurrentZone()
@@ -79,7 +79,7 @@ namespace _3UD_Ariketa_ikusOsagaiak.ViewModels
                 if (seat.Status == SeatStatus.Selected)
                 {
                     seat.Status = SeatStatus.Reserved;
-                    seat.ReservedFor = DateTime.Now; // o puedes usar fecha seleccionada
+                    seat.ReservedFor = DateTime.Now; 
                 }
             }
 

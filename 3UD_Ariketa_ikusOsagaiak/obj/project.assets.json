@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ik012982i18\\.nuget\\packages\\": {},
+    "C:\\Users\\Iker\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
+      "projectUniqueName": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
       "projectName": "3UD_Ariketa_ikusOsagaiak",
-      "projectPath": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
-      "packagesPath": "C:\\Users\\ik012982i18\\.nuget\\packages\\",
-      "outputPath": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\obj\\",
+      "projectPath": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
+      "packagesPath": "C:\\Users\\Iker\\.nuget\\packages\\",
+      "outputPath": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ik012982i18\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Iker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -32,8 +32,7 @@
         "net8.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -67,24 +66,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.20, 8.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

@@ -74,13 +74,12 @@ namespace _3UD_Ariketa_ikusOsagaiak.Services
             File.WriteAllText(FilePath, json);
         }
 
-        // Carga todas las zonas desde JSON
         public void LoadAllZones()
         {
             if (!File.Exists(FilePath))
             {
                 Directory.CreateDirectory(Path.GetDirectoryName(FilePath)!);
-                File.WriteAllText(FilePath, "{}"); // JSON vacío válido
+                File.WriteAllText(FilePath, "{}"); 
                 return;
             }
 
@@ -94,20 +93,17 @@ namespace _3UD_Ariketa_ikusOsagaiak.Services
 
             try
             {
-                // Deserializamos JSON en un diccionario temporal
                 var dict = JsonSerializer.Deserialize<Dictionary<string, Zone>>(json);
                 if (dict != null)
                 {
                     _zones = dict;
 
-                    // Convertimos Seats a ObservableCollection para UI
                     foreach (var zone in _zones.Values)
                         zone.Seats = new ObservableCollection<Seat>(zone.Seats);
                 }
             }
             catch (JsonException)
             {
-                // Si JSON está corrupto, reiniciamos
                 _zones.Clear();
                 File.WriteAllText(FilePath, "{}");
             }

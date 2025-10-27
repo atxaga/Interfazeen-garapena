@@ -1,66 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\",
+  "WorkspaceRootPath": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\data\\reservations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:data\\reservations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3UD_Ariketa_ikusOsagaiak.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3UD_Ariketa_ikusOsagaiak.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\views\\components\\seatmapcontrol.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:views\\components\\seatmapcontrol.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommandT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelayCommandT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RelayCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\views\\components\\seatmapcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:views\\components\\seatmapcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\views\\components\\seatmapcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:views\\components\\seatmapcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\relaycommandt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:relaycommandt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\3ud_ariketa_ikusosagaiak.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:3ud_ariketa_ikusosagaiak.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatmapControl.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Components\\SeatmapControl.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Components\\SeatMapControl.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\ViewModels\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModels\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Services\\ReservationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ReservationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa_ikusosagaiak\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542F976E-1A0C-48B7-8009-1C127296BE57}|3UD_Ariketa_ikusOsagaiak.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Components\\SeatMapControl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Data\\reservations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\reservations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,74 +83,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "reservations.json",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Data\\reservations.json",
-              "RelativeDocumentMoniker": "Data\\reservations.json",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Data\\reservations.json",
-              "RelativeToolTip": "Data\\reservations.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-27T10:18:19.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RelayCommandT.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommandT.cs",
-              "RelativeDocumentMoniker": "RelayCommandT.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommandT.cs",
-              "RelativeToolTip": "RelayCommandT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T10:02:38.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "RelayCommand.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommand.cs",
-              "RelativeToolTip": "RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T09:14:33.39Z",
+              "Title": "3UD_Ariketa_ikusOsagaiak.csproj.user",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj.user",
+              "RelativeDocumentMoniker": "3UD_Ariketa_ikusOsagaiak.csproj.user",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj.user",
+              "RelativeToolTip": "3UD_Ariketa_ikusOsagaiak.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-10-27T20:28:09.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SeatMapControl.xaml",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
-              "RelativeDocumentMoniker": "Views\\Components\\SeatMapControl.xaml",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
-              "RelativeToolTip": "Views\\Components\\SeatMapControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T09:06:38.725Z",
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T20:27:28.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SeatMapControl.xaml",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
-              "RelativeDocumentMoniker": "Views\\Components\\SeatMapControl.xaml",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
-              "RelativeToolTip": "Views\\Components\\SeatMapControl.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T09:00:37.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,24 +121,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-27T08:35:04.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\App.xaml",
               "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-27T08:33:59.37Z",
               "EditorCaption": ""
@@ -176,62 +148,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwAoAAAAFAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:31:20.993Z",
+              "WhenOpened": "2025-10-27T08:12:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:14:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommandT.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommandT.cs",
+              "RelativeDocumentMoniker": "RelayCommandT.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\RelayCommandT.cs",
+              "RelativeToolTip": "RelayCommandT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:02:38.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReservationService.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Services\\ReservationService.cs",
-              "RelativeDocumentMoniker": "Services\\ReservationService.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Services\\ReservationService.cs",
-              "RelativeToolTip": "Services\\ReservationService.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:28:26.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Zone.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Zone.cs",
-              "RelativeDocumentMoniker": "Models\\Zone.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Zone.cs",
-              "RelativeToolTip": "Models\\Zone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:28:07.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Seat.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Seat.cs",
-              "RelativeDocumentMoniker": "Models\\Seat.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Seat.cs",
-              "RelativeToolTip": "Models\\Seat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:27:56.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "3UD_Ariketa_ikusOsagaiak",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
+              "Title": "3UD_Ariketa_ikusOsagaiak.csproj",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
               "RelativeDocumentMoniker": "3UD_Ariketa_ikusOsagaiak.csproj",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\3UD_Ariketa_ikusOsagaiak.csproj",
               "RelativeToolTip": "3UD_Ariketa_ikusOsagaiak.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -240,28 +199,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T08:12:45.974Z",
+              "DocumentIndex": 10,
+              "Title": "SeatMapControl.xaml",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
+              "RelativeDocumentMoniker": "Views\\Components\\SeatMapControl.xaml",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
+              "RelativeToolTip": "Views\\Components\\SeatMapControl.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T09:00:37.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwFEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:31:20.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Services\\ReservationService.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Services\\ReservationService.cs",
+              "RelativeToolTip": "Services\\ReservationService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:28:26.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Zone.cs",
+              "RelativeDocumentMoniker": "Models\\Zone.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Zone.cs",
+              "RelativeToolTip": "Models\\Zone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:28:07.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Seat.cs",
+              "RelativeDocumentMoniker": "Models\\Seat.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Models\\Seat.cs",
+              "RelativeToolTip": "Models\\Seat.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:27:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SeatmapControl.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatmapControl.xaml.cs",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatmapControl.xaml.cs",
               "RelativeDocumentMoniker": "Views\\Components\\SeatmapControl.xaml.cs",
-              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatmapControl.xaml.cs",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatmapControl.xaml.cs",
               "RelativeToolTip": "Views\\Components\\SeatmapControl.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:53:13.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeatMapControl.xaml",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
+              "RelativeDocumentMoniker": "Views\\Components\\SeatMapControl.xaml",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Views\\Components\\SeatMapControl.xaml",
+              "RelativeToolTip": "Views\\Components\\SeatMapControl.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T09:06:38.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "reservations.json",
+              "DocumentMoniker": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Data\\reservations.json",
+              "RelativeDocumentMoniker": "Data\\reservations.json",
+              "ToolTip": "D:\\Iker\\Desktop\\Interfazeen-garapena\\3UD_Ariketa_ikusOsagaiak\\Data\\reservations.json",
+              "RelativeToolTip": "Data\\reservations.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T10:18:19.657Z",
               "EditorCaption": ""
             }
           ]

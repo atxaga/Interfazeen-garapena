@@ -36,7 +36,6 @@
             </StackPanel>
         </StackPanel>
 
-        <!-- Panel derecho: fecha/hora y resumen -->
         <StackPanel Grid.Column="1" Margin="10" VerticalAlignment="Top">
             <TextBlock Text="Detalles de reserva" FontWeight="Bold" FontSize="14" Margin="0,0,0,8"/>
 
@@ -47,7 +46,6 @@
 
             <StackPanel Orientation="Horizontal" Margin="0,4">
                 <TextBlock Text="Hora:" VerticalAlignment="Center" Width="60"/>
-                <!-- Input de hora sencillo: HH:mm -->
                 <TextBox Text="{Binding SelectedTime, StringFormat='hh\\:mm', Mode=TwoWay}" Width="80" />
                 <TextBlock Text=" (formato HH:mm)" VerticalAlignment="Center" Margin="8,0,0,0" FontSize="11" Foreground="Gray"/>
             </StackPanel>
