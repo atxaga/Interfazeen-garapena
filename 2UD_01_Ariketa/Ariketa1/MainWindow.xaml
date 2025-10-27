@@ -2,19 +2,20 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Ataza Kudeatzailea" Height="450" Width="800">
-	<Grid>
-		<DataGrid x:Name="dgAtazak"
+    <DockPanel Margin="10">
+        <DataGrid x:Name="dgAtazak"
                   AutoGenerateColumns="False"
                   Margin="10,10,10,60"
-                  CanUserAddRows="True"
+                  CanUserAddRows="false"
+                  ItemsSource="{Binding Atazak}"
                   IsReadOnly="False"
                   SelectionMode="Single"
-                  CellEditEnding="dgAtazak_CellEditEnding">
+                  DockPanel.Dock="Top">
 
-			<DataGrid.Columns>
-				<DataGridTextColumn Header="Titulua" Binding="{Binding Titulua, UpdateSourceTrigger=PropertyChanged}" Width="*"/>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Titulua" Binding="{Binding Titulua, Mode=TwoWay}" Width="*"/>
 				<DataGridComboBoxColumn Header="Lehentasuna"
-                                        SelectedItemBinding="{Binding Lehentasuna, UpdateSourceTrigger=PropertyChanged}"
+                                        SelectedItemBinding="{Binding Lehentasuna, Mode=TwoWay}"
                                         Width="100">
 					<DataGridComboBoxColumn.ItemsSource>
 						<x:Array Type="{x:Type sys:String}" xmlns:sys="clr-namespace:System;assembly=mscorlib">
@@ -24,18 +25,27 @@
 						</x:Array>
 					</DataGridComboBoxColumn.ItemsSource>
 				</DataGridComboBoxColumn>
-				<DataGridTextColumn Header="Azken eguna"
-                                    Binding="{Binding AzkenEguna, StringFormat=\{0:yyyy-MM-dd\}, UpdateSourceTrigger=PropertyChanged}"
-                                    Width="120"/>
-				<DataGridCheckBoxColumn Header="Egina" Binding="{Binding Egina, UpdateSourceTrigger=PropertyChanged}" Width="80"/>
+				<DataGridTemplateColumn Header="Azken eguna" Width="120">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding AzkenEguna, StringFormat=d}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding AzkenEguna, Mode=TwoWay}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridCheckBoxColumn Header="Egina" Binding="{Binding Egina, Mode=TwoWay}" Width="80"/>
 			</DataGrid.Columns>
 		</DataGrid>
 
-		<StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10" DockPanel.Dock="Bottom">
 			<Button Content="Berria" Width="70" Margin="5" Click="BtnBerria_Click"/>
 			<Button Content="Editatu" Width="70" Margin="5" Click="BtnEditatu_Click"/>
 			<Button Content="Ezabatu" Width="70" Margin="5" Click="BtnEzabatu_Click"/>
 			<Button Content="Irten" Width="70" Margin="5" Click="BtnIrten_Click"/>
 		</StackPanel>
-	</Grid>
+	</DockPanel>
 </Window>
