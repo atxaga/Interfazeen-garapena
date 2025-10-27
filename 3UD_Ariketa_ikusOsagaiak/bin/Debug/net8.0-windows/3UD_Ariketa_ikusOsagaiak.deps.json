@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3UD_Ariketa_ikusOsagaiak/1.0.0": {
+        "runtime": {
+          "3UD_Ariketa_ikusOsagaiak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3UD_Ariketa_ikusOsagaiak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D27B57-6916-4D87-8D7D-257929FEDA40}|..\\WpfCustomControlLibrary1\\WpfCustomControlLibrary1.csproj|d:\\interfazea\\interfazeen-garapena\\wpfcustomcontrollibrary1\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D27B57-6916-4D87-8D7D-257929FEDA40}|..\\WpfCustomControlLibrary1\\WpfCustomControlLibrary1.csproj|d:\\interfazea\\interfazeen-garapena\\wpfcustomcontrollibrary1\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8283AE7B-B9D4-4286-B70A-C4C80399AF80}|3UD_Ariketa.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8283AE7B-B9D4-4286-B70A-C4C80399AF80}|3UD_Ariketa.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8283AE7B-B9D4-4286-B70A-C4C80399AF80}|3UD_Ariketa.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa\\3ud_ariketa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8283AE7B-B9D4-4286-B70A-C4C80399AF80}|3UD_Ariketa.csproj|solutionrelative:3ud_ariketa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D27B57-6916-4D87-8D7D-257929FEDA40}|..\\WpfCustomControlLibrary1\\WpfCustomControlLibrary1.csproj|d:\\interfazea\\interfazeen-garapena\\wpfcustomcontrollibrary1\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C900F-E821-4048-8FC3-5580AE62EBE7}|..\\MyComponentLibrary\\MyComponentLibrary.csproj|d:\\interfazea\\interfazeen-garapena\\mycomponentlibrary\\usercontrol2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C900F-E821-4048-8FC3-5580AE62EBE7}|..\\MyComponentLibrary\\MyComponentLibrary.csproj|d:\\interfazea\\interfazeen-garapena\\mycomponentlibrary\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C900F-E821-4048-8FC3-5580AE62EBE7}|..\\MyComponentLibrary\\MyComponentLibrary.csproj|d:\\interfazea\\interfazeen-garapena\\mycomponentlibrary\\mycomponentlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8283AE7B-B9D4-4286-B70A-C4C80399AF80}|3UD_Ariketa.csproj|d:\\interfazea\\interfazeen-garapena\\3ud_ariketa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8283AE7B-B9D4-4286-B70A-C4C80399AF80}|3UD_Ariketa.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C900F-E821-4048-8FC3-5580AE62EBE7}|..\\MyComponentLibrary\\MyComponentLibrary.csproj|d:\\interfazea\\interfazeen-garapena\\mycomponentlibrary\\mycomponentlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3UD_Ariketa",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa\\3UD_Ariketa.csproj",
+              "RelativeDocumentMoniker": "3UD_Ariketa.csproj",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa\\3UD_Ariketa.csproj",
+              "RelativeToolTip": "3UD_Ariketa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T06:44:29.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\WpfCustomControlLibrary1\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfCustomControlLibrary1\\UserControl1.xaml.cs",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\WpfCustomControlLibrary1\\UserControl1.xaml.cs",
+              "RelativeToolTip": "..\\WpfCustomControlLibrary1\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:42:12.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\WpfCustomControlLibrary1\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "..\\WpfCustomControlLibrary1\\UserControl1.xaml",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\WpfCustomControlLibrary1\\UserControl1.xaml",
+              "RelativeToolTip": "..\\WpfCustomControlLibrary1\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T06:41:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\WpfCustomControlLibrary1\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "..\\WpfCustomControlLibrary1\\CustomControl1.cs",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\WpfCustomControlLibrary1\\CustomControl1.cs",
+              "RelativeToolTip": "..\\WpfCustomControlLibrary1\\CustomControl1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:41:04.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyComponentLibrary",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "RelativeDocumentMoniker": "..\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "RelativeToolTip": "..\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T06:39:06.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl2.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\UserControl2.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MyComponentLibrary\\UserControl2.xaml.cs",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\UserControl2.xaml.cs",
+              "RelativeToolTip": "..\\MyComponentLibrary\\UserControl2.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:17:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl2.xaml",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\UserControl2.xaml",
+              "RelativeDocumentMoniker": "..\\MyComponentLibrary\\UserControl2.xaml",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\UserControl2.xaml",
+              "RelativeToolTip": "..\\MyComponentLibrary\\UserControl2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T06:17:09.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyComponentLibrary.csproj",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "RelativeDocumentMoniker": "..\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "RelativeToolTip": "..\\MyComponentLibrary\\MyComponentLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T06:08:30.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T06:04:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Interfazea\\Interfazeen-garapena\\3UD_Ariketa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:04:55.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
